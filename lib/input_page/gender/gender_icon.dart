@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../../gender.dart';
+import '../../model/gender.dart';
 import '../../widget_utils.dart';
 import 'gender_styles.dart';
 

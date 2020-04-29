@@ -4,7 +4,7 @@ import 'gender_arrow.dart';
 import 'gender_circle.dart';
 import 'gender_icon.dart';
 import 'gender_styles.dart';
-import '../../gender.dart';
+import '../../model/gender.dart';
 import '../../widget_utils.dart' show screenAwareSize;
 
 class GenderCard extends StatefulWidget {

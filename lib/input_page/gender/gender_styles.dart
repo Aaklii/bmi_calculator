@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import '../../gender.dart';
+import '../../model/gender.dart';
 import '../../widget_utils.dart';
 
 const double defaultGenderAngle = math.pi / 4;
